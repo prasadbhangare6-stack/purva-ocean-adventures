@@ -160,8 +160,8 @@ const FAQS = [
 ]
 
 // In-memory state with disk persistence to /tmp (survives across warm lambda invocations)
-let tripsData = [...SEED_TRIPS]
-let testimonialsData = [...SEED_TESTIMONIALS]
+let tripsData: any[] = [...SEED_TRIPS]
+let testimonialsData: any[] = [...SEED_TESTIMONIALS]
 let inquiriesData: any[] = []
 let subscribersData: any[] = []
 
