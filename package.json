@@ -4,10 +4,6 @@
   "private": true,
   "type": "module",
   "description": "Purva Ocean Adventures - Fullstack Architecture (Frontend + Backend)",
-  "workspaces": [
-    "frontend",
-    "backend"
-  ],
   "scripts": {
     "install:all": "npm --prefix frontend install && npm --prefix backend install",
     "dev": "concurrently -n \"frontend,backend\" -c \"cyan.bold,magenta.bold\" \"npm --prefix frontend run dev\" \"npm --prefix backend run dev\"",
