@@ -2,6 +2,7 @@
   "name": "purva-ocean-monorepo",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "Purva Ocean Adventures - Fullstack Architecture (Frontend + Backend)",
   "workspaces": [
     "frontend",

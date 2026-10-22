@@ -36,3 +36,5 @@ image-search/
 
 # Backend runtime storage (except initial seed)
 backend/data-storage/*.tmp
+
+.vercel
