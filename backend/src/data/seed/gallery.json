@@ -1,0 +1,12 @@
+[
+  { "id": "gal-1", "src": "/images/reef-manta2.jpg", "alt": "A manta ray cruising over a coral reef", "category": "Underwater", "caption": "Manta passage — house reef" },
+  { "id": "gal-2", "src": "/images/turtle-reef.jpg", "alt": "A hawksbill turtle on a coral reef", "category": "Underwater", "caption": "Hawksbill, slow morning" },
+  { "id": "gal-3", "src": "/images/boat-diver.jpg", "alt": "A diver at the surface beside the boat", "category": "People", "caption": "Surface interval" },
+  { "id": "gal-4", "src": "/images/maldives-aerial3.jpg", "alt": "Aerial view of a turquoise lagoon", "category": "Destinations", "caption": "Maafushi lagoon" },
+  { "id": "gal-5", "src": "/images/reef-manta.jpg", "alt": "Manta rays gliding over coral", "category": "Underwater", "caption": "Cleaning station" },
+  { "id": "gal-6", "src": "/images/snorkel-woman.jpg", "alt": "A snorkeller swimming at the surface", "category": "People", "caption": "First snorkel" },
+  { "id": "gal-7", "src": "/images/cliffs.jpg", "alt": "Limestone cliffs and a turquoise lagoon", "category": "Destinations", "caption": "Next on the map" },
+  { "id": "gal-8", "src": "/images/turtle-diver2.jpg", "alt": "A freediver above a turtle", "category": "People", "caption": "Two minutes down" },
+  { "id": "gal-9", "src": "/images/maldives-aerial2.jpg", "alt": "Aerial view of a palm-lined island", "category": "Destinations", "caption": "Island time" },
+  { "id": "gal-10", "src": "/images/underwater-diver.jpg", "alt": "A freediver beneath a manta ray", "category": "Underwater", "caption": "Blue hour" }
+]

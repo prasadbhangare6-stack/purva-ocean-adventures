@@ -1,0 +1,41 @@
+[
+  {
+    "id": "exp-beginners",
+    "title": "Beginners",
+    "copy": "New to scuba? Start your ocean journey with confidence.",
+    "image": "/images/beginner1.jpg",
+    "alt": "A diver descending through sunlit blue water",
+    "highlights": [
+      "Zero prior swimming or diving experience required for Discover Scuba",
+      "PADI certified instructors with personalized 1-on-1 attention",
+      "Confined shallow water training before open ocean dives",
+      "All high-grade scuba gear provided and fitted"
+    ]
+  },
+  {
+    "id": "exp-certified",
+    "title": "Certified Divers",
+    "copy": "Take your diving to the next level with guided dives and advanced courses.",
+    "image": "/images/turtle-diver.jpg",
+    "alt": "A scuba diver swimming above a coral reef",
+    "highlights": [
+      "Drift dives, wall dives, and deep dive expeditions",
+      "PADI Advanced Open Water & Rescue diver specialty certifications",
+      "Marine life identification briefings before every dive",
+      "Dedicated dive guide to buddy ratio of max 4:1"
+    ]
+  },
+  {
+    "id": "exp-non-divers",
+    "title": "Non-Divers",
+    "copy": "Love the ocean but not diving? You're still welcome! Great for travellers, snorkellers and ocean lovers.",
+    "image": "/images/snorkel-turtle.jpg",
+    "alt": "A snorkeller floating above a turtle in clear water",
+    "highlights": [
+      "Guided reef snorkeling safari with lifejackets and fins",
+      "Island hopping, sunset cruises, and sandbar excursions",
+      "Join the boat crew and watch dolphins in the wild",
+      "Relaxed ocean retreat atmosphere"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "inq_1792690010637_blw3i",
+    "name": "xcdzc",
+    "email": "prasad.bhangare25@pccoepune.org",
+    "phone": "",
+    "dates": "",
+    "travellers": "1",
+    "experience": "Certified Diver",
+    "notes": "",
+    "type": "trip-inquiry",
+    "status": "pending",
+    "createdAt": "2026-10-22T17:26:50.637Z",
+    "updatedAt": "2026-10-22T17:26:50.637Z"
+  },
+  {
+    "id": "inq_1792684486217_cgjwd",
+    "name": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "phone": "+91 98765 43210",
+    "dates": "",
+    "travellers": "2",
+    "experience": "Advanced Diver",
+    "notes": "Interested in the Maldives Maafushi expedition in November!",
+    "type": "trip-inquiry",
+    "status": "pending",
+    "createdAt": "2026-10-22T15:54:46.217Z",
+    "updatedAt": "2026-10-22T15:54:46.217Z"
+  }
+]

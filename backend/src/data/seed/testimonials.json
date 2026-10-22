@@ -1,0 +1,24 @@
+[
+  {
+    "id": "test-1",
+    "kind": "quote",
+    "quote": "An unforgettable experience! The dives, the people and the entire trip was so well organized. Can’t wait for the next one!",
+    "name": "Aashna",
+    "meta": "Mumbai",
+    "avatar": "/images/snorkel-woman.jpg",
+    "verified": true,
+    "createdAt": "2026-09-15T10:00:00.000Z"
+  },
+  {
+    "id": "test-2",
+    "kind": "invite",
+    "title": "Your story next?",
+    "copy": "Travelled with us? Real guest stories will be published here — with permission, always."
+  },
+  {
+    "id": "test-3",
+    "kind": "invite",
+    "title": "Reserved for the ocean",
+    "copy": "We only publish verified guest words. Send yours after your expedition and we will add it here."
+  }
+]

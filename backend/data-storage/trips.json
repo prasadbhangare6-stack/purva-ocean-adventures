@@ -1,0 +1,94 @@
+[
+  {
+    "id": "trip-maldives-maafushi-2026",
+    "slug": "maldives-maafushi",
+    "eyebrow": "Featured Expedition",
+    "title": [
+      "Maldives",
+      "Maafushi"
+    ],
+    "dates": "22 – 27 NOV 2026",
+    "duration": "5 NIGHTS / 6 DAYS",
+    "blurb": "Crystal clear waters, vibrant marine life and unforgettable dive experiences in the Maldives.",
+    "description": "Maafushi is a local island in Kaafu Atoll: quiet beaches, a house reef within swimming distance and short boat rides to the atoll’s most-loved dive sites. Days follow the water — two dives, a long surface interval, and evenings slow enough to actually talk to each other.",
+    "image": "/images/maldives-aerial.jpg",
+    "imageAlt": "Aerial view of a Maldivian island ringed by turquoise lagoon",
+    "totalSpots": 10,
+    "spotsRemaining": 3,
+    "status": "open",
+    "inclusions": [
+      "Scuba diving for all levels",
+      "Comfortable stay",
+      "Boat dives as per package",
+      "Maximum 10 travellers"
+    ],
+    "amenities": [
+      {
+        "icon": "scuba",
+        "title": "Scuba Diving",
+        "note": "(for all levels)"
+      },
+      {
+        "icon": "stay",
+        "title": "Comfortable Stay",
+        "note": ""
+      },
+      {
+        "icon": "boat",
+        "title": "Boat Dives",
+        "note": "(As per package)"
+      },
+      {
+        "icon": "spots",
+        "title": "Only 10 Spots",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "trip-lakshadweep-2027",
+    "slug": "lakshadweep-kadmat",
+    "eyebrow": "Upcoming Expedition",
+    "title": [
+      "Lakshadweep",
+      "Kadmat Island"
+    ],
+    "dates": "15 – 20 JAN 2027",
+    "duration": "5 NIGHTS / 6 DAYS",
+    "blurb": "Pristine coral gardens and uncrowded dive sites in India's premier archipelago.",
+    "description": "Explore vibrant reef walls, manta cleaning stations, and turquoise lagoons in an untouched marine sanctuary.",
+    "image": "/images/cliffs.jpg",
+    "imageAlt": "Aerial view of limestone cliffs and clear waters",
+    "totalSpots": 8,
+    "spotsRemaining": 8,
+    "status": "upcoming",
+    "inclusions": [
+      "Guided coral reef boat dives",
+      "Beachfront eco-resort stay",
+      "All meals and local transfers",
+      "Small group exploration"
+    ],
+    "amenities": [
+      {
+        "icon": "scuba",
+        "title": "Reef Dives",
+        "note": "(certified & beginner)"
+      },
+      {
+        "icon": "stay",
+        "title": "Lagoon Stay",
+        "note": ""
+      },
+      {
+        "icon": "boat",
+        "title": "Daily Boat Trips",
+        "note": ""
+      },
+      {
+        "icon": "spots",
+        "title": "Only 8 Spots",
+        "note": ""
+      }
+    ]
+  }
+]
