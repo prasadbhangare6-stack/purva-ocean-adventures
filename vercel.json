@@ -6,7 +6,13 @@
     },
     "backend": {
       "root": "backend",
-      "entrypoint": "src/index.ts"
+      "framework": "express",
+      "entrypoint": "src/index.ts",
+      "includeFiles": [
+        "node_modules/**",
+        "src/data/seed/**",
+        "dist/**"
+      ]
     }
   },
   "rewrites": [
